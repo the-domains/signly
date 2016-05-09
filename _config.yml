@@ -1,0 +1,28 @@
+name: Signly
+favicon: null
+layout_spectrum: 0.2937185852788389
+typography_spectrum: 0.8476195656694472
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4976389999501407
+  lightness: 0.5902177230454981
+  saturation: 0.6225004617590457
+  rhythmicContrast: 0.7933513938914984
+purpose: []
